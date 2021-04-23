@@ -1,0 +1,17 @@
+.pannel{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5pt 20pt 5pt 20pt;
+  }
+
+  .time-label{
+    font-size: 45pt;
+    font-family: system-ui;
+  }
+
+  .MainTimer {
+    border-radius: 30px;
+    min-width: 220px;
+    border-color: darkgray;
+    border: solid;
+  }

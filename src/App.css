@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.ControlPanel{
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5pt 20pt 5pt 20pt;
+}
+
+button{
+  margin: 10pt;
+  border-radius: 100%;
+  height: 50pt;
+  width: 50pt;
+  background-color: #e34400;
+  border: none;
+  cursor: pointer;
+}
+
+button > span{
+  color: cornsilk;
+  font-family: system-ui;
+  font-weight: 400;
+  font-size: 13pt;
+}
